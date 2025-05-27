@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-image: url('https://thumbs.dreamstime.com/b/nature-web-banner-mountain-view-sunset-panorama-many-hill-green-forest-cover-soft-mist-colorful-sky-background-doi-147736629.jpg?w=1400'); /* Replace with actual image URL */
+    background-size: 100% 100%; /* Fixed size */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0.6);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+.button-group {
+    margin-top: 20px;
+}
+
+button {
+    background-color: #ffcc00;
+    border: none;
+    padding: 15px 20px;
+    margin: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+button:hover {
+    background-color: #ff9900;
+}
