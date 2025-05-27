@@ -1,0 +1,19 @@
+body {
+     background-image: url("https://www.google.com/imgres?q=reading%20book%20images&imgurl=https%3A%2F%2Fwww.blackpoolgrand.co.uk%2Fapp%2Fuploads%2F2021%2F03%2Ffamous-Quotes-about-reading.jpg&imgrefurl=https%3A%2F%2Fwww.blackpoolgrand.co.uk%2Ffamous-quotes-about-reading&docid=FyufQWtBzPwu1M&tbnid=v6RYMyo6O3b32M&vet=12ahUKEwjX6OqtxsCNAxWcZfUHHTEMDRoQM3oECDUQAA..i&w=960&h=600&hcb=2&ved=2ahUKEwjX6OqtxsCNAxWcZfUHHTEMDRoQM3oECDUQAA");
+    height : 690px;
+    width : 350px;
+    color : white
+    }
+.b{
+    text-align: center;
+    border-color: rgb(233, 10, 10);
+    background-color: rgb(15, 214, 214);
+    padding: 50px;
+    margin: 50px;
+    background: scroll;
+    border-radius: 7cm;
+    border-bottom: 2cm;
+}
+.h{
+    font-style: unset;
+}
