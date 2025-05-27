@@ -1,0 +1,84 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url("https://res-console.cloudinary.com/dlpqy8q2x/thumbnails/v1/image/upload/v1748319655/c2FtcGxlcy9iYWxsb29ucw==/drilldown");
+    background-size: cover;
+    color: white;
+    height: 568px;
+    background-color: aqua;
+    margin: 0;
+    padding: 0;
+    border: 12px solid black;
+    border-radius: 45px;
+    margin: 580px;
+
+}
+
+.card1 {
+    border-top-left-radius: 40px;
+    border-top-right-radius: 30px;
+    background-color: rgb(75, 72, 72);
+    color: white;
+    text-align: center;
+    padding: -20px;
+    padding-bottom: -200px;
+}
+
+.fig {
+    height: 55px;
+    width: 55px;
+    border: 3px solid aliceblue;
+    border-radius: 50%;
+    margin-top: -10px;
+    margin-left: -270px;
+    padding-bottom: -200px;
+    
+}
+
+.m {
+    margin-top: -45px;
+    margin-bottom: -25px;
+    background-color: rgb(97, 94, 94);
+    padding: 5px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card2 {
+    background-image: url("https://st.depositphotos.com/2001755/3622/i/450/depositphotos_36220949-stock-photo-beautiful-landscape.jpg");
+    height: 500px;
+    padding: 10px;
+    overflow-y: auto;
+    margin: 20px;
+    margin-left: -5px;
+    margin-right: -2px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.frm, .to {
+    font-size: large;
+    color: white;
+    padding: 2px;
+    margin: 15px;
+    max-width: 70%;
+    word-wrap: break-word;
+}
+
+.frm {
+    background-color: blue;
+    text-align: right;
+    border-bottom-right-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-left: auto;
+}
+
+.to {
+    background-color: rgb(65, 63, 63);
+    text-align: left;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+    margin-right: auto;
+}
