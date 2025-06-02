@@ -1,29 +1,48 @@
+body{
+    background-color: black;
+}
+.p{
+    color: aliceblue;
+    margin: 30px;
+    font-style: italic;
+}
+.im{
+    margin-top: -40px;
+    margin-left: 30px;
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 40px;
+}
+.l{
+    border-bottom-left-radius: 40px;
+    border-top-left-radius: 40px;
+}
+.para{
+margin-left: 230px;
+margin-top: -250px;
+margin-right: 10px;
+background-color: aliceblue;
+margin-bottom: 300px;
+border-bottom-right-radius: 40px;
+border-top-right-radius: 40px;
 
-.a{
-    height: 300px;
-    width: 200px;
-    background-color: aqua;
 }
-.b{
-    height: 300px;
-    width: 200px;
-    background-color: aqua;
+.ll{
+    padding-top: 19px;
+    margin-left: 20px;
 }
-.c {
-    
-    height: 300px;
-    width: 200px;
-    background-color: aqua;
+.s{
+    margin-top: -270px;
+    color: aliceblue;
+    margin-left: 30px;
+    font-style: italic;
 }
-.d {
-   
-    height: 300px;
-    width: 200px;
-    background-color: aqua;
+.para1{
+color: aliceblue;
+margin-left: 200px;
+margin-top: -250px;
+margin-right: 10px;
+background-color: rgb(0, 0, 0);
+margin-bottom: 300px;
+border-bottom-right-radius: 40px;
+border-top-right-radius: 40px;
 }
-.e{
-    
-    height: 300px;
-    width: 200px;
-    background-color: aqua;
-}https://st.depositphotos.com/2001755/3622/i/450/depositphotos_36220949-stock-photo-beautiful-landscape.jpg
