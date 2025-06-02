@@ -1,0 +1,15 @@
+body{
+    margin-top: 400px;
+}
+.b1{
+    margin-top: 20px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    background-color: rgb(211, 207, 201);
+}
+.main{
+    height: 750px;
+    width: 250px;
+    background-color: rgb(9, 9, 9);
+}
