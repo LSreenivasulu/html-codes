@@ -1,26 +1,69 @@
-.heding{
- color :aqua;
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #f9f9f9;
 }
-.fine{
-    border-color: black;
-    background-color: azure;
-    padding: 20px;
-    margin: 30px;
-    background: scroll;
-    border-radius: 7cm;
-    border-bottom: 2cm;
+
+.main-container {
+  padding: 20px;
 }
-.bg{
-    background-color: greenyellow;
-    height: 100vh;
-    display: flex;
+
+.wiki-search-header {
+  border: 1px solid #d5cdcd;
+  padding: 30px 20px;
+  background-color: #ffffff;
+  margin-bottom: 40px;
+  text-align: center;
 }
-.head{
-    text-align: center;
-    color: blue;
-    font-size: 25px;
-    font-weight: bold;
-    border-radius: 12px;
-    text-decoration: line-through;
-    font-style: italic;
+
+.wiki-logo {
+  margin-bottom: 30px;
+  width: 150px;
+}
+
+.search-input {
+  width: 80%;
+  font-size: 18px;
+  padding: 10px;
+  border: 1px solid #d5cdcd;
+  border-radius: 3px;
+}
+
+.spinner {
+  margin-top: 20px;
+}
+
+.d-none {
+  display: none;
+}
+
+.search-results {
+  padding-left: 20px;
+}
+
+.result-item {
+  margin-bottom: 20px;
+}
+
+.result-title {
+  font-size: 22px;
+  color: #1a0dab;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+.result-url {
+  color: #006621;
+  text-decoration: none;
+  display: block;
+  margin-bottom: 5px;
+}
+
+.link-description {
+  color: #444444;
+  font-size: 15px;
 }
